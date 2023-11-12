@@ -9,21 +9,20 @@
     <lastBuildDate>Sat, 12 Nov 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dkato2021.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme Documentation - Basics</title>
-      <link>https://dkato2021.github.io/posts/theme-documentation-basics/</link>
-      <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <guid>https://dkato2021.github.io/posts/theme-documentation-basics/</guid>
-      <description>Gokarna is an opinionated theme with a focus on minimalism and simplicity.
-Installation The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you learn more about it by following this great documentation for beginners.
-a. Create Your Project Hugo provides a new command to create a new website:
-hugo new site my_website cd my_website b. Install the Theme The theme’s repository is: https://github.</description>
-    </item>
-    <item>
       <title>test</title>
       <link>https://dkato2021.github.io/posts/no1/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://dkato2021.github.io/posts/no1/</guid>
-      <description>test test test test test test test test</description>
+      <description>はじめに（見出し） 文章を記入～
+メモ 太字　アスタリスク２つで囲むと太字にできます。
+下記のように先頭にアスタリスクを付けることで箇条書きできます。
+リスト１ リスト２ リスト３ システム要件　（見出し #の数を増やすことで文字サイズを小さくできます） 文章を記入～ 必要に応じて見出しを書き換え
+メモ 下記のようにリストと太字を合わせることもできます。
+リスト１ リスト２ リスト３ 写真を張りたい、絵文字を使いたい場合はアイコンから可能
+システム構成　（見出し） 文章を記入～
+解説　（見出し） コードの説明等を記入。 `(バッククォート)３つで囲むことでコードを挿入できます。 コピペにするために「」をつけています。本書きでは外してください。
+「```言語名:ファイル名.拡張子 コードを記入
+「```Python:python.py # Pythonの例 a = input() print(a) ```」 コードの説明 「```Java:Main.java //Javaの例 import java.util.Scanner; public class Main { public static void main(String[] args) { Scanner input = new Scanner(System.in); String s = input.next(); System.out.println(s); input.close(); } } ```」 コードの説明 リンクの挿入の仕方 [リンク先のタイトル等を記入](ここにURLをコピペ) ## まとめ　（見出し） 文章を記入～ ## 参考　（見出し） 文章を記入～ 参考にさせて頂いたリンク先等の記載 [参考１](ここにURLをコピペ) [参考２](ここにURLをコピペ) [参考３](ここにURLをコピペ) </description>
     </item>
   </channel>
 </rss>
